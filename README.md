@@ -25,7 +25,7 @@ This project allows users to ask study-related questions and receive responses f
 
 ### 1. Clone the repository
 
-git clone <repository-link>
+git clone https://github.com/Maniharsha-ch/ollama_streamlit_chatbot.git
 cd ollama_streamlit_chatbot
 
 ### 2. Create a virtual environment
